@@ -1,0 +1,25 @@
+{
+  "name": "mismisi",
+  "version": "2.0.0",
+  "description": "SimSimi Telegram Bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "simsimi",
+    "telegram",
+    "bot",
+    "telegraf",
+    "NurFy"
+  ],
+  "author": "NurFy",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.16.3"
+  }
+}
